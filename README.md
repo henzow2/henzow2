@@ -1,4 +1,4 @@
-# Hi, I'm IdkHowToWx!
+# Hi, I'm Henzow!
 
 <p>
   <a href="https://discordapp.com/users/1410293440281051209">
@@ -17,7 +17,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/idkhowtowhistlx/supabase-test">Supabase + Vercel</a></td>
+        <td><a href="https://github.com/henzow2/supabase-test">Supabase + Vercel</a></td>
       </tr>
     </tbody>
   </table>
