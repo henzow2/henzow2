@@ -17,7 +17,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/henzow2/supabase-test">Supabase + Vercel</a></td>
+        <td><a href="https://github.com/henzow2/Hexagon">Hexagon</a></td>
       </tr>
     </tbody>
   </table>
